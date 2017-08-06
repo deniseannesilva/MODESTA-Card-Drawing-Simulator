@@ -1,4 +1,7 @@
-
 public class Driver {
-	CardDrawingSimulator cd = new CardDrawingSimulator();
+	public static void main(String[] args) {
+		Logger log = new Logger();
+		CardDrawingSimulator cd = new CardDrawingSimulator(log);
+		cd.start();
+	}
 }

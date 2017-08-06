@@ -5,13 +5,14 @@ import objects.Deck;
 
 public class CardDrawingSimulator {
 	
+	Logger log;
 	int numCards, numTrials;
 	Scanner sc;
 	Deck deck;
 	
-	public CardDrawingSimulator(){
+	public CardDrawingSimulator(Logger log){
+		this.log = log;
 		init();
-		start();
 	}
 	
 	public void init(){
