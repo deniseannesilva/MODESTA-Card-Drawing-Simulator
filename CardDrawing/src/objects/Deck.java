@@ -5,6 +5,8 @@ import java.util.Random;
 
 public class Deck {
 	public static final int SIZE = 52;
+	public static final int SUIT_SIZE = 13;
+	public static final int RANK_SIZE = 4;
 	public static final String RANKS[] = {"Ace", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", 
 									"Nine", "Ten", "Jack", "Queen", "King"};
 	public static final String SUITS[] = {"Clubs", "Diamonds", "Hearts", "Spades"};
@@ -17,16 +19,12 @@ public class Deck {
 	}
 	
 	public void init(){
-		int j = 0;
-		for(int i = 0; i < SIZE; i++){
-			Card card = new Card();
-			cards.add(card);
-			for(int numrank = 0; numrank < 13; numrank++){
-				cards.get(i).setRank(RANKS[numrank]);
-			}
-			if((i == 13) || (i == 26) || (i == 39)){
-				cards.get(i).setSuit(SUITS[j]);
-				j++;
+		for(int j = 0; j < RANK_SIZE; j++) {
+			for(int i = 0; i < SUIT_SIZE; i++){
+				Card card = new Card();
+				card.setRank(RANKS[i]);
+				card.setSuit(SUITS[j]);
+				cards.add(card);
 			}
 		}
 	}
@@ -45,37 +43,31 @@ public class Deck {
 		cards.set(nextIndex, card);
 	}
 	
-	public Card draw(boolean withReplacement){
+	public ArrayList<Card> draw(int num, boolean withReplacement){
+		drawCards.clear();
+		Card card;
+		for(int i = 0; i < num; i++) {			
+			if(withReplacement){
+				card = getRandomCard();
+				drawCards.add(card);
+			} else {
+				card = getRandomCard();
+				while(!isDrawn(card))
+					drawCards.add(card);
+			}
+		}
+		return drawCards;
+	}
+	
+	public Card getRandomCard() {
 		Random rand = new Random();
 		int nextCard = rand.nextInt(SIZE);
-		Card card;
-		if(withReplacement){
-			card =  cards.get(nextCard);
-		}
-		else{
-			card =  cards.get(nextCard);
-			while(isDrawn(card)){
-				nextCard = rand.nextInt(SIZE);
-				card = cards.get(nextCard);
-			}
-			drawCards.add(card);
-		}
-		
+		Card card = cards.get(nextCard);
 		return card;
 	}
 	
 	public boolean isDrawn(Card card){
-		boolean isDrawn = false;
-		for(int i=0; i < drawCards.size(); i++){
-			if(drawCards.get(i) == card)
-				isDrawn = true;
-		}
-		
-		return isDrawn;
+		return drawCards.contains(card);
 	}
-	
-	public void removeCard(){
 		
-	}
-	
 }
