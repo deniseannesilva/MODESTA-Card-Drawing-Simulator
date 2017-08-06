@@ -80,7 +80,7 @@ public class CardDrawingSimulator {
 		ArrayList<Card> resultCards;
 		int sum = 0 ;
 //		System.out.println("\nWith Replacement Results");
-		log.writeFile(FILENAME, "WITH REPLACEMENT");
+		log.writeFile(FILENAME, numTrials + " TRIALS WITH REPLACEMENT");
 		for(int i = 0; i < numTrials; i++) {
 			log.writeFile(FILENAME, "====================TRIAL " + (i+1) + "====================");
 //			System.out.println("Trial # " + (i+1));
@@ -96,7 +96,7 @@ public class CardDrawingSimulator {
 		ArrayList<Card> resultCards;
 		int sum = 0 ;
 //		System.out.println("\nWithout Replacement Results");
-		log.writeFile(FILENAME, "WITHOUT REPLACEMENT");
+		log.writeFile(FILENAME, numTrials + " TRIALS WITHOUT REPLACEMENT");
 		for(int i = 0; i < numTrials; i++) {
 			log.writeFile(FILENAME, "====================TRIAL " + (i+1) + "====================");
 //			System.out.println("Trial # " + (i+1));
