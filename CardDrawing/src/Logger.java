@@ -28,7 +28,7 @@ public class Logger {
 			bufferedwriter.newLine();
 			bufferedwriter.write(content);
 			bufferedwriter.flush();
-			System.out.println("WRITING IN THE LOG: SUCCESSFUL!");
+			
 			return true;
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
