@@ -88,7 +88,7 @@ public class CardDrawingSimulator {
 			sum = getSumCard(resultCards);
 			displayTrial(resultCards);
 //			System.out.println("Sum: " + sum);
-			log.writeCSV(FILENAME_CSV, numTrials, i, numCards, sum, true);
+			log.writeCSV(FILENAME_CSV, numTrials, i+1, numCards, sum, true);
 		}
 	}
 	
@@ -104,7 +104,7 @@ public class CardDrawingSimulator {
 			sum = getSumCard(resultCards);
 			displayTrial(resultCards);
 //			System.out.println("Sum: " + sum);
-			log.writeCSV(FILENAME_CSV, numTrials, i, numCards, sum, false);
+			log.writeCSV(FILENAME_CSV, numTrials, i+1, numCards, sum, false);
 		}
 	}
 	
