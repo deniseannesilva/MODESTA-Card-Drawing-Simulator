@@ -28,7 +28,7 @@ public class Logger {
 			bufferedwriter.newLine();
 			bufferedwriter.write(content);
 			bufferedwriter.flush();
-			System.out.println("WRITING IN THE LOG: SUCCESSFUL!");
+			
 			return true;
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -52,8 +52,55 @@ public class Logger {
 		
 	}
 	
-	public void writeCSV(String filename){
+	public void writeCSV(String filename, int numTrials, int trialno, int numCards, int sum, boolean withReplacement){
+		File file = null;
+		FileWriter filewriter = null;
+		BufferedWriter bufferedwriter = null;
 		
+		try {
+			file = new File(filename);
+			
+			if(!file.exists()){
+				file.createNewFile();
+			}
+			
+			filewriter = new FileWriter(filename, true);
+			bufferedwriter = new BufferedWriter(filewriter);
+			bufferedwriter.write(numTrials);
+			bufferedwriter.write(COMMA_DELIMITER);
+			bufferedwriter.write(trialno);
+			bufferedwriter.write(COMMA_DELIMITER);
+			bufferedwriter.write(numCards);
+			bufferedwriter.write(COMMA_DELIMITER);
+			bufferedwriter.write(sum);
+			bufferedwriter.write(COMMA_DELIMITER);
+			
+			if(withReplacement)
+				bufferedwriter.write("with");
+			else
+				bufferedwriter.write("without");
+			bufferedwriter.write(COMMA_DELIMITER);
+			bufferedwriter.newLine();
+			bufferedwriter.flush();
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			writeError(filename, e.getMessage());
+		}finally{
+			
+			try {
+				if(filewriter != null){
+					filewriter.close();
+				}
+				if(bufferedwriter != null){
+					bufferedwriter.close();
+				}
+				
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
 	}
 	
 	public void writeError(String filename, String message){

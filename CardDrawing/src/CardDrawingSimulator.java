@@ -5,7 +5,7 @@ import objects.Card;
 import objects.Deck;
 
 public class CardDrawingSimulator {
-	
+	public static final String FILENAME = "CardDrawLog.txt";
 	Logger log;
 	int numCards, numTrials;
 	int from, to;
@@ -79,7 +79,9 @@ public class CardDrawingSimulator {
 		ArrayList<Card> resultCards;
 		int sum = 0 ;
 		System.out.println("\nWith Replacement Results");
+		log.writeFile(FILENAME, "WITH REPLACEMENT");
 		for(int i = 0; i < numTrials; i++) {
+			log.writeFile(FILENAME, "====================TRIAL " + (i+1) + "====================");
 			System.out.println("Trial # " + (i+1));
 			resultCards = deck.draw(numCards, true);
 			sum = getSumCard(resultCards);
@@ -92,7 +94,9 @@ public class CardDrawingSimulator {
 		ArrayList<Card> resultCards;
 		int sum = 0 ;
 		System.out.println("\nWithout Replacement Results");
+		log.writeFile(FILENAME, "WITHOUT REPLACEMENT");
 		for(int i = 0; i < numTrials; i++) {
+			log.writeFile(FILENAME, "====================TRIAL " + (i+1) + "====================");
 			System.out.println("Trial # " + (i+1));
 			resultCards = deck.draw(numCards, false);
 			sum = getSumCard(resultCards);
@@ -104,6 +108,7 @@ public class CardDrawingSimulator {
 	public void displayTrial(ArrayList<Card> result) {
 		for(int i = 0; i < result.size(); i++) {
 			System.out.println("Card "+(i+1)+": " + result.get(i).getRank() + " " + result.get(i).getSuit());
+			log.writeFile(FILENAME, "Card "+(i+1)+": " + result.get(i).getRank() + " " + result.get(i).getSuit());
 		}
 	}
 	
