@@ -58,6 +58,7 @@ public class CardDrawingSimulator {
 				drawWithout(numCards, numTrials);
 			}
 		}
+		System.out.println("done");
 	}
 	
 	public boolean validateDraw(int x) {
