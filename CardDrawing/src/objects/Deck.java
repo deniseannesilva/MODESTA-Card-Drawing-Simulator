@@ -7,8 +7,7 @@ public class Deck {
 	public static final int SIZE = 52;
 	public static final int SUIT_SIZE = 13;
 	public static final int RANK_SIZE = 4;
-	public static final String RANKS[] = {"Ace", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", 
-									"Nine", "Ten", "Jack", "Queen", "King"};
+	public static final int RANKS[] = {1,2,3,4,5,6,7,8,9,10,11,12,13};
 	public static final String SUITS[] = {"Clubs", "Diamonds", "Hearts", "Spades"};
 	public ArrayList<Card> cards, drawCards;
 	

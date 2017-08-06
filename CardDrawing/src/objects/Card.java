@@ -2,23 +2,24 @@ package objects;
 
 public class Card {
 
-	public String rank, suit;
+	public String suit;
+	public int rank;
 	
 	public Card(){
 		
 	}
 
-	public Card(String rank, String suit) {
+	public Card(int rank, String suit) {
 		super();
 		this.rank = rank;
 		this.suit = suit;
 	}
 
-	public String getRank() {
+	public int getRank() {
 		return rank;
 	}
 
-	public void setRank(String rank) {
+	public void setRank(int rank) {
 		this.rank = rank;
 	}
 

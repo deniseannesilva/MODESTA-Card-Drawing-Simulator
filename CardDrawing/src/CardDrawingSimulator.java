@@ -8,6 +8,7 @@ public class CardDrawingSimulator {
 	
 	Logger log;
 	int numCards, numTrials;
+	int from, to;
 	Scanner sc;
 	Deck deck;
 	Boolean validDraw, validTrial;
@@ -27,25 +28,35 @@ public class CardDrawingSimulator {
 	
 	public void start(){
 		sc = new Scanner(System.in);
-		while(validDraw) {
-			System.out.print("Please input number of cards (1 to 5): ");
-			numCards = sc.nextInt();
-			if(validateDraw(numCards))
-				validDraw = true;
-			else validDraw = false;
-		}
+//		while(validDraw) {
+//			System.out.print("Please input number of cards (1 to 5): ");
+//			numCards = sc.nextInt();
+//			if(validateDraw(numCards))
+//				validDraw = true;
+//			else validDraw = false;
+//		}
+//		
+//		while(validTrial) {
+//			System.out.print("Please enter number of trials (10 to 100000): ");
+//			numTrials = sc.nextInt();
+//			if(validateTrials(numTrials))
+//				validTrial = true;
+//			else validTrial = false;
+//		}
 		
-		while(validTrial) {
-			System.out.print("Please enter number of trials (10 to 100000): ");
-			numTrials = sc.nextInt();
-			if(validateTrials(numTrials))
-				validTrial = true;
-			else validTrial = false;
+		System.out.print("From what trials: ");
+		from = sc.nextInt();
+		System.out.print("To what trials: ");
+		to = sc.nextInt();
+		for(int i = from; i <= to; i++) {
+			for(int j = 1; j <= 5; j++) {
+				numTrials = i;
+				numCards = j;
+				deck.shuffle();
+				drawWith(numCards, numTrials);
+				drawWithout(numCards, numTrials);
+			}
 		}
-
-		deck.shuffle();
-		drawWith(numCards, numTrials);
-		drawWithout(numCards, numTrials);
 	}
 	
 	public boolean validateDraw(int x) {
@@ -66,21 +77,27 @@ public class CardDrawingSimulator {
 	
 	public void drawWith(int numCards, int numTrials) {
 		ArrayList<Card> resultCards;
+		int sum = 0 ;
 		System.out.println("\nWith Replacement Results");
 		for(int i = 0; i < numTrials; i++) {
 			System.out.println("Trial # " + (i+1));
 			resultCards = deck.draw(numCards, true);
+			sum = getSumCard(resultCards);
 			displayTrial(resultCards);
+			System.out.println("Sum: " + sum);
 		}
 	}
 	
 	public void drawWithout(int numCards, int numTrials) {
 		ArrayList<Card> resultCards;
+		int sum = 0 ;
 		System.out.println("\nWithout Replacement Results");
 		for(int i = 0; i < numTrials; i++) {
 			System.out.println("Trial # " + (i+1));
 			resultCards = deck.draw(numCards, false);
+			sum = getSumCard(resultCards);
 			displayTrial(resultCards);
+			System.out.println("Sum: " + sum);
 		}
 	}
 	
@@ -88,5 +105,13 @@ public class CardDrawingSimulator {
 		for(int i = 0; i < result.size(); i++) {
 			System.out.println("Card "+(i+1)+": " + result.get(i).getRank() + " " + result.get(i).getSuit());
 		}
+	}
+	
+	public int getSumCard(ArrayList<Card> result) {
+		int sum = 0;
+		for(int i = 0; i < result.size(); i++) {
+			sum += result.get(i).getRank();
+		}
+		return sum;
 	}
 }
