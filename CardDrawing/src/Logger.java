@@ -66,13 +66,13 @@ public class Logger {
 			
 			filewriter = new FileWriter(filename, true);
 			bufferedwriter = new BufferedWriter(filewriter);
-			bufferedwriter.write(numTrials);
+			bufferedwriter.write(Integer.toString(numTrials));
 			bufferedwriter.write(COMMA_DELIMITER);
-			bufferedwriter.write(trialno);
+			bufferedwriter.write(Integer.toString(trialno));
 			bufferedwriter.write(COMMA_DELIMITER);
-			bufferedwriter.write(numCards);
+			bufferedwriter.write(Integer.toString(numCards));
 			bufferedwriter.write(COMMA_DELIMITER);
-			bufferedwriter.write(sum);
+			bufferedwriter.write(Integer.toString(sum));
 			bufferedwriter.write(COMMA_DELIMITER);
 			
 			if(withReplacement)
