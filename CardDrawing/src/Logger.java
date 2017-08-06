@@ -76,9 +76,9 @@ public class Logger {
 			bufferedwriter.write(COMMA_DELIMITER);
 			
 			if(withReplacement)
-				bufferedwriter.write("with");
+				bufferedwriter.write("WITH");
 			else
-				bufferedwriter.write("without");
+				bufferedwriter.write("WITHOUT");
 			bufferedwriter.write(COMMA_DELIMITER);
 			bufferedwriter.newLine();
 			bufferedwriter.flush();
