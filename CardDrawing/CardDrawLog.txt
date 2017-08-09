@@ -1,0 +1,1642 @@
+
+Trial # 1
+With Replacement
+Card # 1 1 of Clubs
+
+Card # 2 11 of Spades
+
+Without replacement
+Card # 1 13 of Spades
+
+Card # 2 10 of Diamonds
+
+Trial # 1
+With Replacement
+Card # 1 12 of Spades
+
+Card # 2 3 of Diamonds
+
+Card # 3 7 of Spades
+
+Card # 4 12 of Hearts
+
+Card # 5 2 of Diamonds
+
+Without replacement
+Card # 1 5 of Hearts
+
+Card # 2 11 of Hearts
+
+Card # 3 12 of Clubs
+
+Card # 4 1 of Spades
+
+Trial # 1
+With Replacement
+Card # 1 2 of Clubs
+
+Card # 2 2 of Spades
+
+Card # 3 1 of Hearts
+
+Without replacement
+Card # 1 9 of Diamonds
+
+Card # 2 10 of Spades
+
+Card # 3 12 of Spades
+
+Trial # 1
+With Replacement
+Card # 1 10 of Diamonds
+
+Card # 2 3 of Diamonds
+
+Card # 3 3 of Diamonds
+
+Card # 4 5 of Clubs
+
+Card # 5 5 of Spades
+
+Without replacement
+Card # 1 12 of Spades
+
+Card # 2 13 of Hearts
+
+Card # 3 7 of Diamonds
+
+Card # 4 12 of Diamonds
+
+Card # 5 1 of Diamonds
+
+Trial # 1
+With Replacement
+Card # 1 4 of Diamonds
+
+Card # 2 11 of Hearts
+
+Card # 3 2 of Spades
+
+Card # 4 1 of Hearts
+
+Card # 5 3 of Spades
+
+Without replacement
+Card # 1 1 of Hearts
+
+Card # 2 5 of Hearts
+
+Card # 3 6 of Hearts
+
+Card # 4 6 of Diamonds
+
+Card # 5 10 of Spades
+
+Trial # 1
+With Replacement
+Card # 1 12 of Hearts
+
+Card # 2 3 of Diamonds
+
+Card # 3 3 of Spades
+
+Card # 4 10 of Hearts
+
+Card # 5 11 of Spades
+
+Without replacement
+Card # 1 5 of Hearts
+
+Card # 2 2 of Diamonds
+
+Card # 3 8 of Hearts
+
+Card # 4 12 of Hearts
+
+Card # 5 8 of Diamonds
+
+Card # 6 7 of Diamonds
+
+Card # 7 6 of Clubs
+
+Card # 8 10 of Spades
+
+Card # 9 13 of Spades
+
+Card # 10 1 of Hearts
+
+Card # 11 13 of Diamonds
+
+Card # 12 4 of Spades
+
+Card # 13 8 of Spades
+
+Card # 14 2 of Hearts
+
+Card # 15 8 of Clubs
+
+Card # 16 10 of Hearts
+
+Card # 17 9 of Spades
+
+Card # 18 3 of Diamonds
+
+Card # 19 11 of Hearts
+
+Card # 20 1 of Diamonds
+
+Card # 21 4 of Diamonds
+
+Card # 22 3 of Clubs
+
+Card # 23 11 of Spades
+
+Card # 24 5 of Spades
+
+Card # 25 10 of Diamonds
+
+Trial # 1
+With Replacement
+Card # 1 6 of Hearts
+
+Card # 2 6 of Hearts
+
+Card # 3 13 of Diamonds
+
+Card # 4 4 of Clubs
+
+Card # 5 13 of Diamonds
+
+Without replacement
+Card # 1 1 of Spades
+
+Card # 2 3 of Diamonds
+
+Card # 3 10 of Diamonds
+
+Card # 4 1 of Clubs
+
+Card # 5 10 of Clubs
+
+Card # 6 7 of Diamonds
+
+Card # 7 10 of Spades
+
+Card # 8 9 of Hearts
+
+Card # 9 8 of Hearts
+
+Card # 10 8 of Spades
+
+Card # 11 13 of Diamonds
+
+Card # 12 1 of Diamonds
+
+Card # 13 3 of Spades
+
+Card # 14 6 of Spades
+
+Card # 15 2 of Spades
+
+Card # 16 6 of Clubs
+
+Card # 17 5 of Hearts
+
+Card # 18 4 of Hearts
+
+Card # 19 7 of Clubs
+
+Card # 20 13 of Clubs
+
+Trial # 1
+With Replacement
+Card # 1 2 of Diamonds
+
+Card # 2 12 of Diamonds
+
+Card # 3 8 of Hearts
+
+Card # 4 9 of Hearts
+
+Card # 5 11 of Spades
+
+Without replacement
+Card # 1 12 of Clubs
+
+Card # 2 2 of Diamonds
+
+Card # 3 11 of Spades
+
+Card # 4 12 of Diamonds
+
+Card # 5 6 of Diamonds
+
+Card # 6 2 of Spades
+
+Card # 7 9 of Hearts
+
+Card # 8 3 of Diamonds
+
+Card # 9 8 of Hearts
+
+Card # 10 4 of Clubs
+
+Card # 11 2 of Hearts
+
+Card # 12 13 of Hearts
+
+Card # 13 6 of Hearts
+
+Card # 14 10 of Hearts
+
+Card # 15 3 of Clubs
+
+Card # 16 7 of Diamonds
+
+Card # 17 4 of Diamonds
+
+Card # 18 11 of Clubs
+
+Card # 19 7 of Hearts
+
+Card # 20 9 of Diamonds
+
+Trial # 1
+With Replacement
+Card # 1 7 of Diamonds
+
+Card # 2 1 of Hearts
+
+Card # 3 11 of Spades
+
+Card # 4 12 of Clubs
+
+Card # 5 3 of Spades
+
+Without replacement
+Card # 1 10 of Spades
+
+Card # 2 13 of Clubs
+
+Card # 3 9 of Clubs
+
+Card # 4 7 of Spades
+
+Card # 5 2 of Spades
+
+Card # 6 6 of Diamonds
+
+Card # 7 5 of Spades
+
+Card # 8 4 of Spades
+
+Card # 9 9 of Spades
+
+Card # 10 10 of Diamonds
+
+Card # 11 13 of Spades
+
+Card # 12 8 of Spades
+
+Card # 13 6 of Clubs
+
+Trial # 1
+With Replacement
+Card # 1 2 of Diamonds
+
+Card # 2 13 of Clubs
+
+Card # 3 11 of Hearts
+
+Card # 4 2 of Spades
+
+Card # 5 10 of Clubs
+
+Without replacement
+Card # 1 12 of Diamonds
+
+Card # 2 3 of Hearts
+
+Card # 3 4 of Hearts
+
+Card # 4 4 of Spades
+
+Card # 5 6 of Clubs
+
+Card # 6 12 of Spades
+
+Card # 7 11 of Hearts
+
+Card # 8 7 of Diamonds
+
+Card # 9 1 of Clubs
+
+Card # 10 12 of Clubs
+
+Card # 11 4 of Diamonds
+
+Card # 12 11 of Spades
+
+Card # 13 13 of Hearts
+
+Card # 14 7 of Spades
+
+Card # 15 10 of Clubs
+
+Card # 16 6 of Spades
+
+Card # 17 1 of Hearts
+
+Card # 18 1 of Diamonds
+
+Card # 19 6 of Hearts
+
+Card # 20 3 of Clubs
+
+Card # 21 5 of Clubs
+
+Card # 22 2 of Hearts
+
+Card # 23 7 of Hearts
+
+Trial # 1
+With Replacement
+Card # 1 13 of Hearts
+
+Card # 2 7 of Hearts
+
+Card # 3 9 of Hearts
+
+Card # 4 12 of Diamonds
+
+Card # 5 3 of Diamonds
+
+Without replacement
+Card # 1 12 of Spades
+
+Card # 2 10 of Spades
+
+Card # 3 3 of Clubs
+
+Card # 4 8 of Diamonds
+
+Card # 5 11 of Hearts
+
+Card # 6 13 of Clubs
+
+Card # 7 6 of Hearts
+
+Card # 8 5 of Clubs
+
+Card # 9 2 of Diamonds
+
+Card # 10 7 of Clubs
+
+Card # 11 3 of Diamonds
+
+Card # 12 9 of Hearts
+
+Card # 13 2 of Hearts
+
+Card # 14 5 of Hearts
+
+Card # 15 6 of Spades
+
+Card # 16 9 of Clubs
+
+Card # 17 1 of Diamonds
+
+Card # 18 7 of Spades
+
+Card # 19 13 of Spades
+
+Card # 20 5 of Diamonds
+
+Card # 21 4 of Diamonds
+
+Trial # 2
+With Replacement
+Card # 1 7 of Spades
+
+Card # 2 12 of Diamonds
+
+Card # 3 2 of Clubs
+
+Card # 4 3 of Clubs
+
+Without replacement
+Card # 1 11 of Hearts
+
+Card # 2 6 of Hearts
+
+Card # 3 10 of Clubs
+
+Card # 4 7 of Hearts
+
+Card # 5 13 of Spades
+
+Card # 6 2 of Diamonds
+
+Card # 7 2 of Spades
+
+Card # 8 6 of Diamonds
+
+Card # 9 13 of Clubs
+
+Card # 10 7 of Clubs
+
+Card # 11 11 of Diamonds
+
+Card # 12 6 of Clubs
+
+Card # 13 3 of Spades
+
+Card # 14 1 of Clubs
+
+Card # 15 2 of Hearts
+
+Card # 16 12 of Spades
+
+Card # 17 4 of Clubs
+
+Card # 18 8 of Clubs
+
+Trial # 1
+With Replacement
+Card # 1 4 of Spades
+
+Card # 2 11 of Clubs
+
+Card # 3 4 of Diamonds
+
+Card # 4 7 of Clubs
+
+Card # 5 12 of Hearts
+
+Without replacement
+Card # 1 2 of Diamonds
+
+Card # 2 4 of Clubs
+
+Card # 3 13 of Spades
+
+Card # 4 10 of Diamonds
+
+Card # 5 4 of Hearts
+
+Card # 6 7 of Diamonds
+
+Card # 7 3 of Hearts
+
+Card # 8 3 of Spades
+
+Card # 9 5 of Diamonds
+
+Card # 10 11 of Hearts
+
+Card # 11 3 of Clubs
+
+Card # 12 10 of Clubs
+
+Card # 13 10 of Spades
+
+Card # 14 8 of Hearts
+
+Card # 15 9 of Hearts
+
+Card # 16 2 of Spades
+
+Card # 17 6 of Spades
+
+Card # 18 9 of Clubs
+
+Trial # 1
+With Replacement
+Card # 1 11 of Spades
+
+Card # 2 11 of Clubs
+
+Card # 3 10 of Hearts
+
+Card # 4 3 of Diamonds
+
+Card # 5 12 of Hearts
+
+Without replacement
+Card # 1 10 of Clubs
+
+Card # 2 7 of Hearts
+
+Card # 3 6 of Hearts
+
+Card # 4 8 of Hearts
+
+Card # 5 10 of Hearts
+
+Card # 6 5 of Diamonds
+
+Card # 7 4 of Diamonds
+
+Card # 8 8 of Spades
+
+Card # 9 5 of Spades
+
+Card # 10 12 of Hearts
+
+Card # 11 6 of Spades
+
+Card # 12 9 of Hearts
+
+Card # 13 11 of Diamonds
+
+Card # 14 9 of Diamonds
+
+Card # 15 5 of Hearts
+
+Card # 16 4 of Clubs
+
+Card # 17 6 of Clubs
+
+Card # 18 8 of Clubs
+
+Trial # 1
+With Replacement
+Card # 1 5 of Clubs
+
+Card # 2 11 of Diamonds
+
+Card # 3 2 of Hearts
+
+Card # 4 4 of Diamonds
+
+Card # 5 13 of Diamonds
+
+Without replacement
+Card # 1 5 of Clubs
+
+Card # 2 11 of Clubs
+
+Card # 3 9 of Hearts
+
+Card # 4 13 of Spades
+
+Card # 5 7 of Diamonds
+
+Card # 6 2 of Diamonds
+
+Card # 7 1 of Clubs
+
+Card # 8 11 of Hearts
+
+Card # 9 1 of Spades
+
+Card # 10 7 of Spades
+
+Card # 11 12 of Clubs
+
+Card # 12 7 of Hearts
+
+Card # 13 12 of Diamonds
+
+Card # 14 5 of Hearts
+
+Card # 15 3 of Hearts
+
+Card # 16 6 of Diamonds
+
+Card # 17 13 of Hearts
+
+Card # 18 11 of Diamonds
+
+Trial # 1
+With Replacement
+Card # 1 1 of Hearts
+
+Card # 2 10 of Spades
+
+Card # 3 5 of Spades
+
+Card # 4 5 of Diamonds
+
+Card # 5 6 of Hearts
+
+Without replacement
+Card # 1 3 of Diamonds
+
+Card # 2 2 of Spades
+
+Card # 3 5 of Hearts
+
+Card # 4 4 of Diamonds
+
+Card # 5 9 of Spades
+
+Card # 6 8 of Hearts
+
+Card # 7 11 of Hearts
+
+Card # 8 1 of Spades
+
+Card # 9 11 of Spades
+
+Card # 10 3 of Clubs
+
+Card # 11 1 of Hearts
+
+Card # 12 7 of Hearts
+
+Card # 13 8 of Spades
+
+Card # 14 7 of Spades
+
+Trial # 1
+With Replacement
+Card # 1 7 of Spades
+
+Card # 2 11 of Hearts
+
+Card # 3 12 of Clubs
+
+Card # 4 5 of Diamonds
+
+Card # 5 3 of Spades
+
+Without replacement
+Card # 1 9 of Diamonds
+
+Card # 2 11 of Spades
+
+Card # 3 10 of Clubs
+
+Card # 4 11 of Hearts
+
+Card # 5 1 of Spades
+
+Card # 6 10 of Hearts
+
+Card # 7 13 of Hearts
+
+Card # 8 6 of Spades
+
+Card # 9 8 of Clubs
+
+Card # 10 5 of Hearts
+
+Card # 11 3 of Hearts
+
+Card # 12 10 of Spades
+
+Card # 13 7 of Spades
+
+Card # 14 12 of Clubs
+
+Card # 15 12 of Hearts
+
+Card # 16 7 of Hearts
+
+Card # 17 11 of Clubs
+
+Card # 18 13 of Spades
+
+Card # 19 3 of Clubs
+
+Trial # 1
+With Replacement
+Card # 1 2 of Clubs
+
+Card # 2 2 of Spades
+
+Card # 3 5 of Hearts
+
+Card # 4 4 of Diamonds
+
+Card # 5 6 of Hearts
+
+Without replacement
+Card # 1 11 of Clubs
+
+Card # 2 11 of Clubs
+
+Card # 3 9 of Hearts
+
+Card # 4 9 of Hearts
+
+Card # 5 13 of Diamonds
+
+Card # 6 13 of Diamonds
+
+Card # 7 4 of Clubs
+
+Card # 8 4 of Clubs
+
+Card # 9 11 of Spades
+
+Card # 10 11 of Spades
+
+Card # 11 2 of Hearts
+
+Card # 12 2 of Hearts
+
+Card # 13 8 of Spades
+
+Card # 14 8 of Spades
+
+Card # 15 10 of Clubs
+
+Card # 16 10 of Clubs
+
+Card # 17 12 of Clubs
+
+Card # 18 12 of Clubs
+
+Card # 19 5 of Spades
+
+Card # 20 5 of Spades
+
+Card # 21 6 of Clubs
+
+Card # 22 6 of Clubs
+
+Card # 23 7 of Hearts
+
+Card # 24 7 of Hearts
+
+Card # 25 4 of Diamonds
+
+Card # 26 4 of Diamonds
+
+Card # 27 8 of Clubs
+
+Card # 28 8 of Clubs
+
+Card # 29 8 of Hearts
+
+Card # 30 8 of Hearts
+
+Card # 31 11 of Hearts
+
+Card # 32 11 of Hearts
+
+Card # 33 3 of Spades
+
+Card # 34 3 of Spades
+
+Trial # 1
+With Replacement
+Card # 1 7 of Spades
+
+Card # 2 3 of Clubs
+
+Card # 3 10 of Diamonds
+
+Card # 4 6 of Hearts
+
+Card # 5 9 of Hearts
+
+Without replacement
+Card # 1 8 of Spades
+
+Card # 2 3 of Hearts
+
+Card # 3 7 of Diamonds
+
+Card # 4 12 of Clubs
+
+Card # 5 4 of Hearts
+
+Card # 6 6 of Hearts
+
+Card # 7 9 of Diamonds
+
+Card # 8 6 of Clubs
+
+Card # 9 3 of Clubs
+
+Card # 10 10 of Clubs
+
+Card # 11 1 of Clubs
+
+Card # 12 1 of Diamonds
+
+Card # 13 11 of Spades
+
+Card # 14 8 of Clubs
+
+Card # 15 8 of Hearts
+
+Card # 16 8 of Diamonds
+
+Card # 17 7 of Hearts
+
+Card # 18 7 of Clubs
+
+Card # 19 4 of Diamonds
+
+Card # 20 10 of Diamonds
+
+Trial # 1
+With Replacement
+Card # 1 11 of Spades
+
+Card # 2 13 of Diamonds
+
+Card # 3 13 of Clubs
+
+Card # 4 2 of Diamonds
+
+Card # 5 4 of Spades
+
+Without replacement
+Card # 1 4 of Diamonds
+
+Card # 2 1 of Clubs
+
+Card # 3 3 of Spades
+
+Card # 4 4 of Hearts
+
+Card # 5 6 of Hearts
+
+Card # 6 10 of Diamonds
+
+Card # 7 12 of Diamonds
+
+Card # 8 8 of Spades
+
+Card # 9 5 of Diamonds
+
+Card # 10 1 of Diamonds
+
+Card # 11 10 of Spades
+
+Card # 12 1 of Spades
+
+Card # 13 7 of Clubs
+
+Card # 14 13 of Hearts
+
+Card # 15 11 of Clubs
+
+Card # 16 2 of Clubs
+
+Trial # 1
+With Replacement
+Card # 1 6 of Diamonds
+
+Card # 2 10 of Clubs
+
+Card # 3 9 of Diamonds
+
+Card # 4 13 of Spades
+
+Card # 5 11 of Clubs
+
+Without replacement
+Trial # 1
+With Replacement
+Card # 1 12 of Hearts
+
+Card # 2 3 of Diamonds
+
+Without replacement
+Trial # 1
+With Replacement
+Without replacement
+Card # 1 9 of Hearts
+
+Card # 2 8 of Hearts
+
+Card # 3 10 of Spades
+
+Card # 4 11 of Hearts
+
+Card # 5 13 of Spades
+
+Card # 6 3 of Spades
+
+Card # 7 7 of Clubs
+
+Card # 8 9 of Diamonds
+
+Card # 9 8 of Spades
+
+Card # 10 2 of Diamonds
+
+Card # 11 7 of Diamonds
+
+Card # 12 5 of Spades
+
+Card # 13 10 of Diamonds
+
+Card # 14 12 of Spades
+
+Card # 15 12 of Clubs
+
+Card # 16 4 of Spades
+
+Card # 17 13 of Hearts
+
+Card # 18 2 of Hearts
+
+Card # 19 3 of Diamonds
+
+Trial # 1
+With Replacement
+Without replacement
+Card # 1 7 of Diamonds
+
+Card # 2 5 of Diamonds
+
+Card # 3 6 of Diamonds
+
+Card # 4 11 of Spades
+
+Card # 5 1 of Hearts
+
+Card # 6 3 of Hearts
+
+Card # 7 7 of Clubs
+
+Card # 8 2 of Hearts
+
+Card # 9 7 of Spades
+
+Card # 10 10 of Clubs
+
+Card # 11 2 of Spades
+
+Card # 12 8 of Diamonds
+
+Card # 13 4 of Hearts
+
+Card # 14 2 of Diamonds
+
+Trial # 1
+With Replacement
+Card # 1 3 of Diamonds
+
+Card # 2 7 of Diamonds
+
+Card # 3 12 of Spades
+
+Card # 4 12 of Diamonds
+
+Without replacement
+Card # 1 10 of Hearts
+
+Card # 2 5 of Hearts
+
+Card # 3 11 of Clubs
+
+Card # 4 12 of Hearts
+
+Card # 5 7 of Spades
+
+Card # 6 6 of Diamonds
+
+Card # 7 5 of Clubs
+
+Card # 8 10 of Spades
+
+Card # 9 8 of Clubs
+
+Card # 10 13 of Hearts
+
+Card # 11 11 of Diamonds
+
+Card # 12 8 of Spades
+
+Card # 13 9 of Hearts
+
+Card # 14 10 of Clubs
+
+Card # 15 3 of Diamonds
+
+Card # 16 7 of Hearts
+
+Card # 17 13 of Spades
+
+Trial # 1
+With Replacement
+Without replacement
+Card # 1 2 of Clubs
+
+Card # 2 7 of Hearts
+
+Card # 3 13 of Diamonds
+
+Card # 4 13 of Spades
+
+Card # 5 3 of Diamonds
+
+Card # 6 5 of Clubs
+
+Card # 7 11 of Clubs
+
+Card # 8 6 of Hearts
+
+Card # 9 7 of Spades
+
+Card # 10 6 of Spades
+
+Card # 11 2 of Hearts
+
+Card # 12 1 of Clubs
+
+Card # 13 5 of Diamonds
+
+Card # 14 10 of Hearts
+
+Card # 15 4 of Clubs
+
+Card # 16 5 of Hearts
+
+Card # 17 1 of Diamonds
+
+Card # 18 2 of Diamonds
+
+Card # 19 4 of Diamonds
+
+Card # 20 8 of Hearts
+
+Card # 21 10 of Diamonds
+
+Card # 22 12 of Clubs
+
+Card # 23 4 of Hearts
+
+Card # 24 13 of Clubs
+
+Card # 25 7 of Diamonds
+
+Trial # 1
+With Replacement
+Without replacement
+Card # 1 7 of Diamonds
+
+Card # 2 8 of Diamonds
+
+Card # 3 7 of Hearts
+
+Card # 4 8 of Hearts
+
+Card # 5 1 of Diamonds
+
+Card # 6 9 of Spades
+
+Card # 7 12 of Hearts
+
+Card # 8 9 of Hearts
+
+Card # 9 5 of Diamonds
+
+Card # 10 6 of Spades
+
+Card # 11 4 of Hearts
+
+Card # 12 9 of Clubs
+
+Card # 13 4 of Clubs
+
+Card # 14 5 of Hearts
+
+Card # 15 12 of Diamonds
+
+Card # 16 12 of Spades
+
+Card # 17 3 of Hearts
+
+Card # 18 13 of Diamonds
+
+Card # 19 3 of Diamonds
+
+Card # 20 2 of Spades
+
+Card # 21 12 of Clubs
+
+Card # 22 5 of Spades
+
+Card # 23 13 of Spades
+
+Trial # 1
+With Replacement
+Card # 1 13 of Diamonds
+
+Card # 2 2 of Spades
+
+Card # 3 6 of Hearts
+
+Card # 4 7 of Clubs
+
+Without replacement
+Card # 1 1 of Clubs
+
+Card # 2 10 of Spades
+
+Card # 3 3 of Diamonds
+
+Card # 4 7 of Clubs
+
+Card # 5 5 of Hearts
+
+Card # 6 7 of Hearts
+
+Card # 7 12 of Clubs
+
+Card # 8 11 of Spades
+
+Card # 9 6 of Spades
+
+Card # 10 2 of Clubs
+
+Card # 11 13 of Hearts
+
+Card # 12 10 of Hearts
+
+Card # 13 4 of Clubs
+
+Card # 14 13 of Diamonds
+
+Card # 15 9 of Hearts
+
+Card # 16 9 of Spades
+
+Trial # 1
+With Replacement
+Card # 1 4 of Spades
+
+Card # 2 3 of Diamonds
+
+Card # 3 3 of Clubs
+
+Card # 4 4 of Diamonds
+
+Card # 5 5 of Clubs
+
+Without replacement
+Card # 1 6 of Diamonds
+
+Card # 2 7 of Clubs
+
+Card # 3 4 of Clubs
+
+Card # 4 2 of Diamonds
+
+Card # 5 13 of Hearts
+
+Card # 6 13 of Spades
+
+Card # 7 1 of Spades
+
+Card # 8 5 of Clubs
+
+Card # 9 12 of Clubs
+
+Card # 10 11 of Diamonds
+
+Card # 11 6 of Spades
+
+Card # 12 7 of Spades
+
+Card # 13 3 of Diamonds
+
+Card # 14 6 of Hearts
+
+Card # 15 5 of Hearts
+
+Card # 16 12 of Spades
+
+Card # 17 7 of Hearts
+
+Card # 18 2 of Hearts
+
+Card # 19 10 of Diamonds
+
+Card # 20 13 of Diamonds
+
+Card # 21 9 of Spades
+
+Card # 22 12 of Hearts
+
+Trial # 1
+With Replacement
+Card # 1 12 of Clubs
+
+Card # 2 8 of Hearts
+
+Card # 3 3 of Hearts
+
+Card # 4 11 of Diamonds
+
+Without replacement
+Card # 1 5 of Spades
+
+Card # 2 6 of Hearts
+
+Card # 3 12 of Diamonds
+
+Card # 4 6 of Clubs
+
+Card # 5 5 of Diamonds
+
+Card # 6 11 of Hearts
+
+Card # 7 13 of Hearts
+
+Card # 8 13 of Diamonds
+
+Card # 9 12 of Hearts
+
+Card # 10 10 of Spades
+
+Card # 11 6 of Diamonds
+
+Card # 12 9 of Diamonds
+
+Card # 13 10 of Clubs
+
+Trial # 2
+With Replacement
+Card # 1 4 of Hearts
+
+Card # 2 5 of Spades
+
+Card # 3 4 of Diamonds
+
+Card # 4 5 of Hearts
+
+Without replacement
+Card # 1 1 of Hearts
+
+Card # 2 13 of Clubs
+
+Card # 3 3 of Hearts
+
+Card # 4 11 of Hearts
+
+Card # 5 5 of Hearts
+
+Card # 6 12 of Spades
+
+Card # 7 2 of Spades
+
+Card # 8 11 of Clubs
+
+Card # 9 4 of Diamonds
+
+Card # 10 9 of Hearts
+
+Card # 11 8 of Diamonds
+
+Card # 12 4 of Spades
+
+Card # 13 7 of Hearts
+
+Card # 14 12 of Hearts
+
+Trial # 3
+With Replacement
+Card # 1 13 of Clubs
+
+Card # 2 6 of Clubs
+
+Card # 3 3 of Diamonds
+
+Card # 4 7 of Hearts
+
+Without replacement
+Card # 1 1 of Clubs
+
+Card # 2 10 of Hearts
+
+Card # 3 7 of Hearts
+
+Card # 4 5 of Hearts
+
+Card # 5 7 of Clubs
+
+Card # 6 11 of Hearts
+
+Card # 7 2 of Spades
+
+Card # 8 9 of Spades
+
+Card # 9 1 of Spades
+
+Card # 10 6 of Clubs
+
+Card # 11 4 of Hearts
+
+Card # 12 5 of Clubs
+
+Card # 13 3 of Hearts
+
+Card # 14 9 of Clubs
+
+Card # 15 1 of Hearts
+
+Card # 16 13 of Clubs
+
+Card # 17 8 of Spades
+
+Card # 18 4 of Diamonds
+
+Trial # 1
+With Replacement
+Card # 1 2 of Diamonds
+
+Card # 2 1 of Clubs
+
+Card # 3 6 of Hearts
+
+Card # 4 4 of Diamonds
+
+Without replacement
+Card # 1 8 of Diamonds
+
+Card # 2 5 of Clubs
+
+Card # 3 13 of Clubs
+
+Card # 4 2 of Spades
+
+Card # 5 8 of Clubs
+
+Card # 6 13 of Spades
+
+Card # 7 4 of Clubs
+
+Card # 8 3 of Diamonds
+
+Card # 9 11 of Hearts
+
+Card # 10 10 of Diamonds
+
+Card # 11 10 of Clubs
+
+Card # 12 4 of Hearts
+
+Card # 13 12 of Clubs
+
+Card # 14 9 of Diamonds
+
+Card # 15 7 of Hearts
+
+Card # 16 3 of Clubs
+
+Card # 17 3 of Hearts
+
+Card # 18 9 of Clubs
+
+Card # 19 2 of Clubs
+
+Trial # 1
+With Replacement
+Card # 1 7 of Spades
+
+Card # 2 12 of Diamonds
+
+Card # 3 9 of Hearts
+
+Card # 4 8 of Hearts
+
+Card # 5 13 of Diamonds
+
+Without replacement
+Card # 1 13 of Hearts
+
+Card # 2 1 of Clubs
+
+Card # 3 11 of Spades
+
+Card # 4 13 of Diamonds
+
+Card # 5 4 of Clubs
+
+Trial # 1
+With Replacement
+Card # 1 11 of Clubs
+
+Card # 2 2 of Diamonds
+
+Card # 3 12 of Spades
+
+Card # 4 9 of Diamonds
+
+Card # 5 3 of Diamonds
+
+Without replacement
+Card # 1 13 of Hearts
+
+Card # 2 1 of Hearts
+
+Card # 3 3 of Hearts
+
+Card # 4 3 of Clubs
+
+Card # 5 5 of Spades
+
+Trial # 2
+With Replacement
+Card # 1 5 of Diamonds
+
+Card # 2 5 of Spades
+
+Card # 3 2 of Diamonds
+
+Card # 4 9 of Clubs
+
+Card # 5 1 of Diamonds
+
+Without replacement
+Card # 1 13 of Diamonds
+
+Card # 2 11 of Diamonds
+
+Card # 3 8 of Clubs
+
+Card # 4 2 of Diamonds
+
+Card # 5 10 of Clubs
+
+Trial # 3
+With Replacement
+Card # 1 2 of Diamonds
+
+Card # 2 2 of Diamonds
+
+Card # 3 12 of Hearts
+
+Card # 4 6 of Diamonds
+
+Card # 5 8 of Diamonds
+
+Without replacement
+Card # 1 6 of Hearts
+
+Card # 2 4 of Clubs
+
+Card # 3 11 of Spades
+
+Card # 4 11 of Diamonds
+
+Card # 5 3 of Hearts
+
+Trial # 4
+With Replacement
+Card # 1 2 of Diamonds
+
+Card # 2 6 of Diamonds
+
+Card # 3 1 of Hearts
+
+Card # 4 3 of Spades
+
+Card # 5 4 of Clubs
+
+Without replacement
+Card # 1 11 of Spades
+
+Card # 2 3 of Clubs
+
+Card # 3 3 of Diamonds
+
+Card # 4 5 of Hearts
+
+Card # 5 8 of Spades
+
+Trial # 5
+With Replacement
+Card # 1 2 of Diamonds
+
+Card # 2 4 of Clubs
+
+Card # 3 1 of Hearts
+
+Card # 4 10 of Hearts
+
+Card # 5 12 of Diamonds
+
+Without replacement
+Card # 1 11 of Hearts
+
+Card # 2 10 of Diamonds
+
+Card # 3 7 of Hearts
+
+Card # 4 6 of Diamonds
+
+Card # 5 1 of Hearts
+
+Trial # 6
+With Replacement
+Card # 1 1 of Diamonds
+
+Card # 2 9 of Hearts
+
+Card # 3 4 of Diamonds
+
+Card # 4 6 of Diamonds
+
+Card # 5 6 of Hearts
+
+Without replacement
+Card # 1 3 of Clubs
+
+Card # 2 4 of Diamonds
+
+Card # 3 8 of Spades
+
+Card # 4 2 of Spades
+
+Card # 5 4 of Hearts
+
+Trial # 7
+With Replacement
+Card # 1 11 of Clubs
+
+Card # 2 10 of Clubs
+
+Card # 3 13 of Clubs
+
+Card # 4 11 of Hearts
+
+Card # 5 4 of Clubs
+
+Without replacement
+Card # 1 3 of Spades
+
+Card # 2 12 of Spades
+
+Card # 3 12 of Hearts
+
+Card # 4 11 of Clubs
+
+Card # 5 8 of Spades
+
+Trial # 8
+With Replacement
+Card # 1 13 of Clubs
+
+Card # 2 6 of Clubs
+
+Card # 3 7 of Clubs
+
+Card # 4 3 of Clubs
+
+Card # 5 10 of Diamonds
+
+Without replacement
+Card # 1 12 of Hearts
+
+Card # 2 1 of Spades
+
+Card # 3 13 of Diamonds
+
+Card # 4 12 of Spades
+
+Trial # 9
+With Replacement
+Card # 1 6 of Clubs
+
+Card # 2 11 of Hearts
+
+Card # 3 12 of Diamonds
+
+Card # 4 7 of Clubs
+
+Card # 5 1 of Clubs
+
+Without replacement
+Card # 1 10 of Clubs
+
+Card # 2 4 of Spades
+
+Card # 3 10 of Spades
+
+Card # 4 3 of Diamonds
+
+Card # 5 8 of Hearts
+
+Trial # 10
+With Replacement
+Card # 1 13 of Hearts
+
+Card # 2 10 of Spades
+
+Card # 3 13 of Clubs
+
+Card # 4 8 of Diamonds
+
+Card # 5 5 of Spades
+
+Without replacement
+Card # 1 10 of Spades
+
+Card # 2 1 of Spades
+
+Card # 3 13 of Spades
+
+Card # 4 6 of Spades
+
+Card # 5 1 of Diamonds
